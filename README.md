@@ -46,4 +46,4 @@ Here are some ideas to get you started:
  
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bharatpatil21&show_icons=true) <p>📫 Find me on</p>
-  ><a href='https://www.linkedin.com/in/bharatkumar-patil-75697056/' ><img src='https://raw.githubusercontent.com/Marhatta/Marhatta/master/icons8-linkedin-512.png' width='50' height='50'/></a>
+  ><a href='https://www.linkedin.com/in/bharatkumar-patil-75697056/' target="_blank"><img src='https://raw.githubusercontent.com/Marhatta/Marhatta/master/icons8-linkedin-512.png' width='50' height='50'/></a>
